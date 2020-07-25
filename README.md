@@ -11,3 +11,5 @@
 </br></br>
 * The basic intuition is to apply methods like Gaussian Blur and Canny edge detection to find the region of interest where we want the vegicle to run.
 * A very basic model, that can quite nicely detect the lanes of the road and find out the vehicle's travel route.
+</br>
+Video link: https://www.dropbox.com/sh/rvj0k3gggvws6zf/AAAJiqciE1wgiRvx_43CH5c0a?dl=0
