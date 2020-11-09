@@ -9,7 +9,7 @@
 * Here the BLUE LINES denote the boundary between which the vehicle is made to run 
 
 </br></br>
-* The basic intuition is to apply methods like Gaussian Blur and Canny edge detection to find the region of interest where we want the vegicle to run.
+* The basic intuition is to apply methods like Gaussian Blur and Canny edge detection to find the region of interest where we want the vehicle to run.
 * A very basic model, that can quite nicely detect the lanes of the road and find out the vehicle's travel route.
 </br>
 Video link (raw): https://www.dropbox.com/sh/rvj0k3gggvws6zf/AAAJiqciE1wgiRvx_43CH5c0a?dl=0
